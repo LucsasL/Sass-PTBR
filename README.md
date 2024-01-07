@@ -7,4 +7,4 @@
 
 ## Conteúdo
 
-
+- Instalação, criação, compilação e watching;
